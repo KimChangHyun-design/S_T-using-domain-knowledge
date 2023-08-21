@@ -1,6 +1,9 @@
 # 설명
 Domain knowledge를 활용한 sequential transformation을 이용하여 anomaly detection 수행
-기존 sequential transformation + Domain knowledge를 활용한 sequential transformation
+기존 sequential transformation 
++
+Domain knowledge를 활용한 sequential transformation
+
 
 ![image](https://github.com/KimChangHyun-design/S_T-using-domain-knowledge/assets/127087508/01a67997-9c1b-4839-b873-d711becfb1e9)
 
